@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ServiceName">
+        <item>ケータイWatch</item><item >基本情報技術者試験</item>
+        
+        <item >404 Blog Not Found</item>
+        </string-array>
+    <string-array name="ServiceUrl">
+        <item>http://k-tai.impress.co.jp/cda/rss/ktai.rdf</item><item >http://jibun.atmarkit.co.jp/rss/ittrain/105/rss.xml</item>
+        
+        <item >http://blog.livedoor.jp/dankogai/index.rdf</item>
+        </string-array>
+    
+</resources>
